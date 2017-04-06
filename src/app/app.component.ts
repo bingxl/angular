@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app works!';
+  name:string = 'communication in component'; 
+  productName = "完美期盼";
 }
